@@ -12,8 +12,8 @@ import (
 	"time"
 )
 
-const monitoramentos = 1000000
-const delay = 2
+const monitoramentos = 10
+const delay = 10
 
 func main() {
 	exibeMenu()
